@@ -5,5 +5,8 @@ module.exports = {
         database: "dans",
         username: "root",
         password: "root"
+    },
+    jwt: {
+        secret: "s3cret"
     }
 }
